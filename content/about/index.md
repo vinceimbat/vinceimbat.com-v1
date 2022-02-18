@@ -90,15 +90,15 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         box-shadow: none;
         outline: medium none;
     }
-
+    
     #mlb2-8723416 a:hover {
         cursor: pointer !important;
     }
-
+    
     #mlb2-8723416 h4 {
         font-weight: normal;
     }
-
+    
     #mlb2-8723416 .subscribe-form {
         padding: 20px;
         width: 400px !important;
@@ -107,25 +107,25 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         border-radius: 0px !important;
         box-sizing: border-box !important;
     }
-
+    
     #mlb2-8723416 .ml-block-form {
         margin-bottom: 0px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section {
         margin-bottom: 20px;
         width: 100%;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section.mb10 {
         margin-bottom: 10px;
         float: left;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section.mb0 {
         margin-bottom: 0px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section h4 {
         margin: 0px 0px 10px 0px !important;
         padding: 0px !important;
@@ -135,7 +135,7 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         line-height: 100%;
         text-align: left !important;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section p,
     #mlb2-8723416 .subscribe-form .form-section li {
         line-height: 150%;
@@ -145,11 +145,11 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         font-family: 'Open Sans', sans-serif !important;
         font-size: 14px !important;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section a {
         font-size: 14px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .confirmation_checkbox {
         line-height: 150%;
         padding: 0px !important;
@@ -159,7 +159,7 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         font-size: 17px !important;
         font-weight: normal !important;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .confirmation_checkbox input[type="checkbox"] {
         display: inline-block;
         margin-right: 5px !important;
@@ -168,11 +168,11 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         -moz-appearance: checkbox;
         appearance: checkbox;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .form-group {
         margin-bottom: 15px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .form-group label {
         float: left;
         margin-bottom: 10px;
@@ -182,22 +182,22 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         font-family: 'Open Sans', sans-serif !important;
         font-size: 14px !important;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .checkbox {
         width: 100%;
         margin: 0px 0px 10px 0px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .checkbox label {
         color: #000000 !important;
         font-family: 'Open Sans', sans-serif !important;
         font-size: 14px !important;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .checkbox input {
         margin: 0px 5px 0px 0px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section .checkbox input[type="checkbox"] {
         display: inline-block;
         opacity: 1;
@@ -205,7 +205,7 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         -moz-appearance: checkbox;
         appearance: checkbox;
     }
-
+    
     #mlb2-8723416.ml-subscribe-form .form-group .form-control {
         width: 100%;
         font-size: 13px;
@@ -221,7 +221,7 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         box-sizing: border-box;
         clear: left;
     }
-
+    
     #mlb2-8723416.ml-subscribe-form button {
         border: none !important;
         cursor: pointer !important;
@@ -237,48 +237,48 @@ But the best way to follow my work is always to subscribe to my monthly newslett
         margin: 0 !important;
         position: relative!important;
     }
-
+    
     #mlb2-8723416.ml-subscribe-form button.gradient-on {
         background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
         background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
         background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
         background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
     }
-
+    
     #mlb2-8723416.ml-subscribe-form button.gradient-on:hover {
         background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
         background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
         background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
         background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
     }
-
+    
     #mlb2-8723416.ml-subscribe-form button[disabled] {
         cursor: not-allowed!important;
     }
-
+    
     #mlb2-8723416.ml-subscribe-form .form-section.ml-error label {
         color: red!important;
     }
-
+    
     #mlb2-8723416.ml-subscribe-form .form-group.ml-error label {
         color: red!important;
     }
-
+    
     #mlb2-8723416.ml-subscribe-form .form-group.ml-error .form-control {
         border-color: red!important;
     }
-
+    
     #mlb2-8723416 .ml-vertical-align-center {
         text-align: left;
         display: block;
     }
-
+    
     #mlb2-8723416 .ml-block-success,
     #mlb2-8723416 form.ml-block-form {
         display: inline-block;
         width: 400px;
     }
-
+    
     @media (max-width: 768px) {
         #mlb2-8723416 {
             width: 100% !important;
@@ -288,41 +288,41 @@ But the best way to follow my work is always to subscribe to my monthly newslett
             width: 100% !important;
         }
     }
-
+    
     #mlb2-8723416 .subscribe-form.horizontal {
         padding-bottom: 0px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section.horizontal {
         float: left;
         margin-bottom: 5px;
         width: 70%;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section.horizontal .form-group {
         float: left;
         width: 100%;
         padding-right: 10px;
         box-sizing: border-box;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section.horizontal .form-group .form-control {
         height: 42.5px;
     }
-
+    
     #mlb2-8723416 .subscribe-form .ml-form-visible-xs {
         display: none;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section.horizontal.ml-button-position {
         width: 30%;
         padding: 0;
     }
-
+    
     #mlb2-8723416 .subscribe-form .form-section.horizontal.ml-button-position.top-padding {
         padding-top: 24px;
     }
-
+    
     @media (max-width: 768px) {
         #mlb2-8723416.ml-subscribe-form .subscribe-form .form-section.horizontal {
             float: none;
