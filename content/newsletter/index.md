@@ -58,8 +58,8 @@ _Uman_ is a monthly newsletter sent every second day of the month, containing up
     #mlb2-8723416 .subscribe-form {
         padding: 20px;
         width: 400px !important;
-        border: 2px solid #FFFFFF !important;
-        background: #FFFFFF none !important;
+        border: 0px solid transparent !important;
+        background: transparent none !important;
         border-radius: 0px !important;
         box-sizing: border-box !important;
     }

@@ -102,7 +102,7 @@ But the best way to follow my work is always to subscribe to my monthly newslett
     #mlb2-8723416 .subscribe-form {
         padding: 20px;
         width: 400px !important;
-        border: 2px solid #FFFFFF !important;
+        border: 0px solid transparent !important;
         background: transparent none !important;
         border-radius: 0px !important;
         box-sizing: border-box !important;
