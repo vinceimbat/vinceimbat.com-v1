@@ -11,9 +11,9 @@ Using a secular and agnostic lens, I  mull over the question _"How should I live
 
 In an accelerated culture where extremism is fashionable, I believe that it is essential to cultivate moderation and careful thinking. My goal is to always "see things as they really are" so that I may always choose the "right action."
 
-To develop these habits of the mind, I practice mindfulness, take long [walks](/tags/walk-narratives), and carefully cultivate notes in [my digital garden](https://notes.vinceimbat.com). When my ideas are ripe, I publish [theoretical](/categories/essays) or [personal](/categories/personal-essays) essays based on these notes.
+To develop these habits of the mind, I practice mindfulness, take long [walks](/tags/walk-narratives), and carefully cultivate notes in [my digital garden](https://notes.vinceimbat.com). When my ideas are ripe, I publish [theoretical](/categories/essays) or [personal](/categories/personal-essays) essays based on these notes. I also write [poetry](categories/poetry) and [vignettes](categories/vignettes).
 
-I also write [poetry](categories/poetry) and [vignettes](categories/vignettes).
+[Click here to learn more about me and my work](/about).
 
 The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my monthly newsletter.
 
@@ -66,7 +66,7 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         padding: 20px;
         width: 400px !important;
         border: 2px solid #FFFFFF !important;
-        background: #FFFFFF none !important;
+        background: transparent none !important;
         border-radius: 0px !important;
         box-sizing: border-box !important;
     }
@@ -344,5 +344,3 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
     </div>
 </div>
 <script type="text/javascript" src="https://static.mailerlite.com/js/w/webforms.min.js?v0c75f831c56857441820dcec3163967c"></script>
-
-You may also [click here to learn more about me and my work](/about).
