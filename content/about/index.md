@@ -1,14 +1,12 @@
 ---
-title: "About"
+title: "About Me"
 description: About Vince Imbat
 date: "2017-03-18"
 showDate: false
 showPagination: false
 ---
 
-# Welcome.
-
-I am grateful that you are here.
+Welcome. I am grateful that you have found me here.
 
 My name is Vince Imbat. I'm a writer who explores what it means to live a life of independent philosophical contemplation in the 21st century.
 

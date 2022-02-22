@@ -3,15 +3,13 @@ title: "Hi, I'm Vince Imbat."
 date: "2019-10-07"
 ---
 
-## I'm a writer who walks.
+I'm a writer who explores what it means to live a life of independent philosophical contemplation in the 21st century.
 
-I explore what it means to live a life of independent contemplation in the 21st century.
+Using a contemplative philosophical lens, I  ponder about the question _"How should I live?"_
 
-Using a secular and agnostic lens, I  mull over the question _"How should I live?"_
+To arrive at the best answer to this question, I believe that it is essential to cultivate moderation and deep understanding. My goal is to always "see things as they really are" so that I may always choose the "right action."
 
-In an accelerated culture where extremism is fashionable, I believe that it is essential to cultivate moderation and careful thinking. My goal is to always "see things as they really are" so that I may always choose the "right action."
-
-To develop these habits of the mind, I practice mindfulness, take long [walks](/tags/walk-narratives), and carefully cultivate notes in [my digital garden](https://notes.vinceimbat.com). When my ideas are ripe, I publish [theoretical](/categories/essays) or [personal](/categories/personal-essays) essays based on these notes. I also write [poetry](categories/poetry) and [vignettes](categories/vignettes).
+To develop these habits of the mind, I practice mindfulness, take long [walks](/tags/walk-narratives), and carefully cultivate notes in [my digital garden](https://notes.vinceimbat.com). When my ideas are ripe, I publish [theoretical](/categories/essays) or [personal](/categories/personal-essays) essays based on these notes. Occasionally, I also write [poetry](categories/poetry) and [vignettes](categories/vignettes).
 
 [Click here to learn more about me and my work](/about).
 
@@ -53,15 +51,15 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         box-shadow: none;
         outline: medium none;
     }
-    
+
     #mlb2-8723416 a:hover {
         cursor: pointer !important;
     }
-    
+
     #mlb2-8723416 h4 {
         font-weight: normal;
     }
-    
+
     #mlb2-8723416 .subscribe-form {
         padding: 20px;
         width: 400px !important;
@@ -70,25 +68,25 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         border-radius: 0px !important;
         box-sizing: border-box !important;
     }
-    
+
     #mlb2-8723416 .ml-block-form {
         margin-bottom: 0px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section {
         margin-bottom: 20px;
         width: 100%;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section.mb10 {
         margin-bottom: 10px;
         float: left;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section.mb0 {
         margin-bottom: 0px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section h4 {
         margin: 0px 0px 10px 0px !important;
         padding: 0px !important;
@@ -98,7 +96,7 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         line-height: 100%;
         text-align: left !important;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section p,
     #mlb2-8723416 .subscribe-form .form-section li {
         line-height: 150%;
@@ -108,11 +106,11 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         font-family: 'Open Sans', sans-serif !important;
         font-size: 14px !important;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section a {
         font-size: 14px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .confirmation_checkbox {
         line-height: 150%;
         padding: 0px !important;
@@ -122,7 +120,7 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         font-size: 17px !important;
         font-weight: normal !important;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .confirmation_checkbox input[type="checkbox"] {
         display: inline-block;
         margin-right: 5px !important;
@@ -131,11 +129,11 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         -moz-appearance: checkbox;
         appearance: checkbox;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .form-group {
         margin-bottom: 15px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .form-group label {
         float: left;
         margin-bottom: 10px;
@@ -145,22 +143,22 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         font-family: 'Open Sans', sans-serif !important;
         font-size: 14px !important;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .checkbox {
         width: 100%;
         margin: 0px 0px 10px 0px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .checkbox label {
         color: #000000 !important;
         font-family: 'Open Sans', sans-serif !important;
         font-size: 14px !important;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .checkbox input {
         margin: 0px 5px 0px 0px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section .checkbox input[type="checkbox"] {
         display: inline-block;
         opacity: 1;
@@ -168,7 +166,7 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         -moz-appearance: checkbox;
         appearance: checkbox;
     }
-    
+
     #mlb2-8723416.ml-subscribe-form .form-group .form-control {
         width: 100%;
         font-size: 13px;
@@ -184,7 +182,7 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         box-sizing: border-box;
         clear: left;
     }
-    
+
     #mlb2-8723416.ml-subscribe-form button {
         border: none !important;
         cursor: pointer !important;
@@ -200,48 +198,48 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
         margin: 0 !important;
         position: relative!important;
     }
-    
+
     #mlb2-8723416.ml-subscribe-form button.gradient-on {
         background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
         background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
         background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
         background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
     }
-    
+
     #mlb2-8723416.ml-subscribe-form button.gradient-on:hover {
         background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
         background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
         background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
         background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
     }
-    
+
     #mlb2-8723416.ml-subscribe-form button[disabled] {
         cursor: not-allowed!important;
     }
-    
+
     #mlb2-8723416.ml-subscribe-form .form-section.ml-error label {
         color: red!important;
     }
-    
+
     #mlb2-8723416.ml-subscribe-form .form-group.ml-error label {
         color: red!important;
     }
-    
+
     #mlb2-8723416.ml-subscribe-form .form-group.ml-error .form-control {
         border-color: red!important;
     }
-    
+
     #mlb2-8723416 .ml-vertical-align-center {
         text-align: left;
         display: block;
     }
-    
+
     #mlb2-8723416 .ml-block-success,
     #mlb2-8723416 form.ml-block-form {
         display: inline-block;
         width: 400px;
     }
-    
+
     @media (max-width: 768px) {
         #mlb2-8723416 {
             width: 100% !important;
@@ -251,41 +249,41 @@ The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my 
             width: 100% !important;
         }
     }
-    
+
     #mlb2-8723416 .subscribe-form.horizontal {
         padding-bottom: 0px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section.horizontal {
         float: left;
         margin-bottom: 5px;
         width: 70%;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section.horizontal .form-group {
         float: left;
         width: 100%;
         padding-right: 10px;
         box-sizing: border-box;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section.horizontal .form-group .form-control {
         height: 42.5px;
     }
-    
+
     #mlb2-8723416 .subscribe-form .ml-form-visible-xs {
         display: none;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section.horizontal.ml-button-position {
         width: 30%;
         padding: 0;
     }
-    
+
     #mlb2-8723416 .subscribe-form .form-section.horizontal.ml-button-position.top-padding {
         padding-top: 24px;
     }
-    
+
     @media (max-width: 768px) {
         #mlb2-8723416.ml-subscribe-form .subscribe-form .form-section.horizontal {
             float: none;
