@@ -42,7 +42,7 @@ The best way to follow this project is to subscribe to _[Uman](/newsletter/)_, m
 
 ## Other Projects
 
-Aside from my main project, I have also conceived of other project adjacent to my main work, some of which I continue to maintain.
+I have also conceived of other projects adjacent to my main work, some of which I continue to maintain.
 
 - [Kaliskis na Ulap](https://kaliskisnaulap.com/) - A collection of translations from Henry David Thoreau's journal and other writings.
 

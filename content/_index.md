@@ -5,7 +5,7 @@ date: "2019-10-07"
 
 I'm a writer who explores what it means to live a life of independent philosophical contemplation in the 21st century.
 
-Using a contemplative philosophical lens, I  ponder about the question _"How should I live?"_
+Using a combination of philosophical inquiry and contemplation, I  ponder about the question _"How should I live?"_
 
 To arrive at the best answer to this question, I believe that it is essential to cultivate moderation and deep understanding. My goal is to always "see things as they really are" so that I may always choose the "right action."
 
