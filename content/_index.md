@@ -3,7 +3,7 @@ title: "Hi, I'm Vince Imbat."
 date: "2019-10-07"
 ---
 
-I'm a writer who explores what it means to live a life of independent philosophizing and contemplation in the 21st century.
+I'm a writer who explores what it means to pursue philosophy and contemplation independently as a way of life in the 21st century.
 
 Using a combination of philosophical inquiry and contemplative practices, I  immerse myself into the question _"How should I live?"_
 

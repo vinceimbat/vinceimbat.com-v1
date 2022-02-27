@@ -8,7 +8,7 @@ showPagination: false
 
 Welcome. I am grateful that you have found me here.
 
-My name is Vince Imbat. I'm a writer who explores what it means to live a life of independent philosophizing and contemplation in the 21st century.
+My name is Vince Imbat. I'm a writer who explores what it means to pursue philosophy and contemplation independently as a way of life in the 21st century.
 
 I spend most of my days thinking and contemplating about the question _"How should I live?"_
 
