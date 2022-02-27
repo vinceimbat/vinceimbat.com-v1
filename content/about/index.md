@@ -8,9 +8,9 @@ showPagination: false
 
 Welcome. I am grateful that you have found me here.
 
-My name is Vince Imbat. I'm a writer who explores what it means to live a life of independent philosophical contemplation in the 21st century.
+My name is Vince Imbat. I'm a writer who explores what it means to live a life of independent philosophizing and contemplation in the 21st century.
 
-I spend most of my days contemplating about the question _"How should I live?"_
+I spend most of my days thinking and contemplating about the question _"How should I live?"_
 
 In my pursuit for answers, I study a wide variety of resources from different disciplines, cultures, and eras. From these resources, I collect insights about the art of living as I carefully and critically reflect on them. I write my thoughts in [atomic notes](https://notes.vinceimbat.com) and revisit these notes regularly through a note-writing system and practice I call [Talahardin](ttps://notes.vinceimbat.com) or "garden of notes." I support this practice by cultivating mindfulness, moderation, and introspection, facilitated in no small part by [long walks](/walk-narratives) that create a space for me to pause and grow my thoughts organically.
 

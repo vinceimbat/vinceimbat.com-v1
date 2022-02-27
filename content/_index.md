@@ -3,13 +3,13 @@ title: "Hi, I'm Vince Imbat."
 date: "2019-10-07"
 ---
 
-I'm a writer who explores what it means to live a life of independent philosophical contemplation in the 21st century.
+I'm a writer who explores what it means to live a life of independent philosophizing and contemplation in the 21st century.
 
-Using a combination of philosophical inquiry and contemplation, I  ponder about the question _"How should I live?"_
+Using a combination of philosophical inquiry and contemplative practices, I  immerse myself into the question _"How should I live?"_
 
-To arrive at the best answer to this question, I believe that it is essential to cultivate moderation and deep understanding. My goal is to always "see things as they really are" so that I may always choose the "right action."
+To arrive at a good answer to this question, I believe that it is essential to cultivate moderation and deep understanding. My goal is to always "see things as they really are" so that I may always choose the "right action."
 
-To develop these habits of the mind, I practice mindfulness, take long [walks](/tags/walk-narratives), and carefully cultivate notes in [my digital garden](https://notes.vinceimbat.com). When my ideas are ripe, I publish [theoretical](/categories/essays) or [personal](/categories/personal-essays) essays based on these notes. Occasionally, I also write [poetry](categories/poetry) and [vignettes](categories/vignettes).
+To develop these habits of the mind, I practice mindfulness, take long [walks](/tags/walk-narratives), and carefully cultivate notes in [my digital garden](https://notes.vinceimbat.com). When my ideas are ripe, I publish [theoretical](/categories/essays) or [personal](/categories/personal-essays) essays based on these notes. I also write [poetry](categories/poetry) and [vignettes](categories/vignettes).
 
 [Click here to learn more about me and my work](/about).
 
