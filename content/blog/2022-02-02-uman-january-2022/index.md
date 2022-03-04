@@ -1,5 +1,5 @@
 ---
-title: "Uman — January 2022"
+title: "𝌡 Uman — January 2022"
 date: "2022-02-02"
 slug: "uman-january-2022"
 categories:

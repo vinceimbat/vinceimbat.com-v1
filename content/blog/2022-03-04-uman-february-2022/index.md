@@ -1,6 +1,6 @@
 ---
 title: "𝌡 Uman — Febuary 2022"
-date: "2022-02-02"
+date: "2022-03-04"
 slug: "uman-february-2022"
 categories:
   - "newsletters"
@@ -18,6 +18,8 @@ And that is what this newsletter is about—funny symbols—no, I mean… change
 I’m [Vince Imbat](https://vinceimbat.com/), in case you have forgotten who is sending you these emails, and here are some changes I went through in my life this month.
 
 ## Studies
+
+### Thay and self-actualization
 
 This month, I finished reading Thich Nhat Hanh’s [extended biography](https://plumvillage.org/about/thich-nhat-hanh/thich-nhat-hanh-full-biography/). One of my favorite insights from reading about his life is his formula for true happiness: Understanding → Compassion → Happiness. I realized through him that outer work enhances one’s inner work and that inner work is genuinely just preparation for serving the world (or a small chunk of it), which heightens one’s experience of self-fulfillment. No one has genuinely finished their inner work without fulfilling their outer work.
 
