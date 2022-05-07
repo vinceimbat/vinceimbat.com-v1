@@ -10,7 +10,7 @@ showTableOfContents: false
 
 _Lilim_, which means "shade" or "shadow," was a weekly newsletter that explored the intersection of philosophy, art, and the outdoors. It ran for two seasons, but is now retired.
 
-You can read the archives [here](/tags/lilim)
+You can read the archives [here](/tags/lilim).
 
 ## _Uman_
 
@@ -346,4 +346,4 @@ This newsletter is still active and you can subscribe by entering your email add
 </div>
 <script type="text/javascript" src="https://static.mailerlite.com/js/w/webforms.min.js?v0c75f831c56857441820dcec3163967c"></script>
 
-[You may also check the _Uman_ archives here](/tags/uman)
+[You may also check the _Uman_ archives here](/tags/uman).
