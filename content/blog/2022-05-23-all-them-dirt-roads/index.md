@@ -7,7 +7,6 @@ categories:
 tags:
   - "lilim"
 ---
-
 ![The dirt road in Botao](images/dirt-road-botao.jpg)
 
 Are we going to lose another dirt road? It looks like it. Not a single tree was left standing on what used to be a heavily canopied path. It took me so long before giving this trail a try. But when I did, I found the solitude I was looking for.
