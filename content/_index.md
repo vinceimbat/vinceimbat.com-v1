@@ -3,342 +3,68 @@ title: "Hi, I'm Vince Imbat."
 date: "2019-10-07"
 ---
 
-I'm a writer who explores what it means to pursue philosophy and contemplation independently as a way of life in the 21st century.
+I'm a writer who explores the question _"How should I live?"_
 
-Using a combination of philosophical inquiry and contemplative practices, I  immerse myself into the question _"How should I live?"_
+I explore this question through philosophy and contemplation. I find that I do my best thinking while walking alone, mostly in nature. There, I am able to approach a question deeply, carefully, and with moderation. In nature, I am encouraged to "see things as they really are."
 
-To arrive at a good answer to this question, I believe that it is essential to cultivate moderation and deep understanding. My goal is to always "see things as they really are" so that I may always choose the "right action."
+So, I take long [walks](/tags/walk-narratives), develop my thoughts in [my digital garden](https://notes.vinceimbat.com), then, when I'm ready, write essays on my [newsletters](/newsletter).
 
-To develop these habits of the mind, I practice mindfulness, take long [walks](/tags/walk-narratives), and carefully cultivate notes in [my digital garden](https://notes.vinceimbat.com). When my ideas are ripe, I publish [theoretical](/categories/essays) or [personal](/categories/personal-essays) essays based on these notes. I also write [poetry](categories/poetry) and [vignettes](categories/vignettes).
+I currently have two active newsletters:
+
+- **[Lilim](tags/lilim)**: a weekly newsletter about walking in Laguna, Pangasinan, and elsewhere in the Philippines.
+- **[Uman](tags/uman)**: a monthly newsletter documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life.
+
+<style type="text/css">
+  @import url(https://static.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1654169);
+</style>
+<style type="text/css">
+  .ml-form-embedSubmitLoad{display:inline-block;width:20px;height:20px}.g-recaptcha{transform:scale(1);-webkit-transform:scale(1);transform-origin:0 0;-webkit-transform-origin:0 0}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}.ml-form-embedSubmitLoad:after{content:" ";display:block;width:11px;height:11px;margin:1px;border-radius:50%;border:4px solid #fff;border-color:#fff #fff #fff transparent;animation:ml-form-embedSubmitLoad 1.2s linear infinite}@keyframes ml-form-embedSubmitLoad{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}#mlb2-5694616.ml-form-embedContainer{box-sizing:border-box;display:table;margin:0 auto;position:static;width:100%!important}#mlb2-5694616.ml-form-embedContainer button,#mlb2-5694616.ml-form-embedContainer h4,#mlb2-5694616.ml-form-embedContainer p,#mlb2-5694616.ml-form-embedContainer span{text-transform:none!important;letter-spacing:normal!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper{background-color:#fff;border-width:0;border-color:transparent;border-radius:5px;border-style:solid;box-sizing:border-box;display:inline-block!important;margin:0;padding:0;position:relative}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper.embedDefault,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper.embedPopup{width:400px}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper.embedForm{max-width:400px;width:100%}#mlb2-5694616.ml-form-embedContainer .ml-form-align-left{text-align:left}#mlb2-5694616.ml-form-embedContainer .ml-form-align-center{text-align:center}#mlb2-5694616.ml-form-embedContainer .ml-form-align-default{display:table-cell!important;vertical-align:middle!important;text-align:center!important}#mlb2-5694616.ml-form-embedContainer .ml-form-align-right{text-align:right}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedHeader img{border-top-left-radius:5px;border-top-right-radius:5px;height:auto;margin:0 auto!important;max-width:100%;width:undefinedpx}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody{padding:20px 20px 0 20px}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody.ml-form-embedBodyHorizontal{padding-bottom:0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent{text-align:left;margin:0 0 20px 0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h4,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h4{color:#000;font-family:'Open Sans',Arial,Helvetica,sans-serif;font-size:30px;font-weight:400;margin:0 0 10px 0;text-align:left;word-break:break-word}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p{color:#000;font-family:'Open Sans',Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:20px;margin:0 0 10px 0;text-align:left}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent ol,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent ul,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent ol,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent ul{color:#000;font-family:'Open Sans',Arial,Helvetica,sans-serif;font-size:14px}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent ol ol,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent ol ol{list-style-type:lower-alpha}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent ol ol ol,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent ol ol ol{list-style-type:lower-roman}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p a,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p a{color:#000;text-decoration:underline}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-block-form .ml-field-group{text-align:left!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-block-form .ml-field-group label{margin-bottom:5px;color:#000;font-size:17px;font-family:Arial,Helvetica,sans-serif;font-weight:700;font-style:normal;text-decoration:none;display:inline-block;line-height:23px}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p:last-child,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p:last-child{margin:0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody form{margin:0;width:100%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent{margin:0 0 20px 0;width:100%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow{float:left}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent.horozintalForm{margin:0;padding:0 0 20px 0;width:100%;height:auto;float:left}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow{margin:0 0 10px 0;width:100%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow.ml-last-item{margin:0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow.ml-formfieldHorizintal{margin:0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input{background-color:#fff!important;color:#9d9d9d!important;border-color:#e7e7e7;border-radius:5px!important;border-style:solid!important;border-width:2px!important;font-family:Arial,Helvetica,sans-serif;font-size:17px!important;height:auto;line-height:21px!important;margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;padding:10px 10px!important;width:100%!important;box-sizing:border-box!important;max-width:100%!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input::-webkit-input-placeholder,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input::-webkit-input-placeholder{color:#9d9d9d}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input::-moz-placeholder,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input::-moz-placeholder{color:#9d9d9d}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input:-ms-input-placeholder,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input:-ms-input-placeholder{color:#9d9d9d}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input:-moz-placeholder,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input:-moz-placeholder{color:#9d9d9d}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow textarea,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow textarea{background-color:#fff!important;color:#9d9d9d!important;border-color:#e7e7e7;border-radius:5px!important;border-style:solid!important;border-width:2px!important;font-family:Arial,Helvetica,sans-serif;font-size:17px!important;height:auto;line-height:21px!important;margin-bottom:0;margin-top:0;padding:10px 10px!important;width:100%!important;box-sizing:border-box!important;max-width:100%!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before{border-color:#e7e7e7!important;background-color:#fff!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input.custom-control-input[type=checkbox]{box-sizing:border-box;padding:0;position:absolute;z-index:-1;opacity:0;margin-top:5px;margin-left:-1.5rem;overflow:visible}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before{border-radius:4px!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input:checked~.custom-control-label::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::after{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e")}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::after{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='%23fff'/%3e%3c/svg%3e")}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-input:checked~.custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::before{border-color:#317af0!important;background-color:#317af0!important;color:#fff!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before{top:2px;box-sizing:border-box}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before{top:0!important;box-sizing:border-box!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before{top:0!important;box-sizing:border-box!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after{top:5px!important;box-sizing:border-box!important;position:absolute;left:-1.5rem;display:block;width:1rem;height:1rem;content:""}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before{top:5px!important;box-sizing:border-box!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::before{position:absolute;top:4px;left:-1.5rem;display:block;width:16px;height:16px;pointer-events:none;content:"";background-color:#fff;border:#adb5bd solid 1px;border-radius:50%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::after{position:absolute;top:2px!important;left:-1.5rem;display:block;width:1rem;height:1rem;content:""}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before{position:absolute;top:4px;left:-1.5rem;display:block;width:16px;height:16px;pointer-events:none;content:"";background-color:#fff;border:#adb5bd solid 1px;border-radius:50%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after{position:absolute;top:0!important;left:-1.5rem;display:block;width:1rem;height:1rem;content:""}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after{position:absolute;top:0!important;left:-1.5rem;display:block;width:1rem;height:1rem;content:""}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-radio .custom-control-label::after{background:no-repeat 50%/50% 50%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-checkbox .custom-control-label::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after{background:no-repeat 50%/50% 50%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-control,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-control{position:relative;display:block;min-height:1.5rem;padding-left:1.5rem}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-input{position:absolute;z-index:-1;opacity:0;box-sizing:border-box;padding:0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label{color:#000;font-size:12px!important;font-family:'Open Sans',Arial,Helvetica,sans-serif;line-height:22px;margin-bottom:0;position:relative;vertical-align:top;font-style:normal;font-weight:700}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-select,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-select{background-color:#fff!important;color:#9d9d9d!important;border-color:#e7e7e7;border-radius:5px!important;border-style:solid!important;border-width:2px!important;font-family:Arial,Helvetica,sans-serif;font-size:17px!important;line-height:20px!important;margin-bottom:0;margin-top:0;padding:10px 28px 10px 12px!important;width:100%!important;box-sizing:border-box!important;max-width:100%!important;height:auto;display:inline-block;vertical-align:middle;background:url(https://cdn.mailerlite.com/images/default/dropdown.svg) no-repeat right .75rem center/8px 10px;-webkit-appearance:none;-moz-appearance:none;appearance:none}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow{height:auto;width:100%;float:left}.ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-input-horizontal{width:70%;float:left}.ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-button-horizontal{width:30%;float:left}.ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-button-horizontal.labelsOn{padding-top:28px}.ml-form-formContent.horozintalForm .ml-form-horizontalRow .horizontal-fields{box-sizing:border-box;float:left;padding-right:10px}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input{background-color:#fff;color:#9d9d9d;border-color:#e7e7e7;border-radius:5px;border-style:solid;border-width:2px;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:20px;margin-bottom:0;margin-top:0;padding:10px 10px;width:100%;box-sizing:border-box;overflow-y:initial}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow button{background-color:#317af0!important;border-color:#317af0;border-style:solid;border-width:2px;border-radius:4px;box-shadow:none;color:#fff!important;cursor:pointer;font-family:Arial,Helvetica,sans-serif;font-size:17px!important;font-weight:700;line-height:20px;margin:0!important;padding:10px!important;width:100%;height:auto}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow button:hover{background-color:#317af0!important;border-color:#317af0!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type=checkbox]{box-sizing:border-box;padding:0;position:absolute;z-index:-1;opacity:0;margin-top:5px;margin-left:-1.5rem;overflow:visible}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description{color:#000;display:block;font-family:'Open Sans',Arial,Helvetica,sans-serif;font-size:12px;text-align:left;margin-bottom:0;position:relative;vertical-align:top}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow label{font-weight:400;margin:0;padding:0;position:relative;display:block;min-height:24px;padding-left:24px}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow label a{color:#000;text-decoration:underline}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow label p{color:#000!important;font-family:'Open Sans',Arial,Helvetica,sans-serif!important;font-size:12px!important;font-weight:400!important;line-height:18px!important;padding:0!important;margin:0 5px 0 0!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow label p:last-child{margin:0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit{margin:0 0 20px 0;float:left;width:100%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button{background-color:#317af0!important;border:none!important;border-radius:4px!important;box-shadow:none!important;color:#fff!important;cursor:pointer;font-family:Arial,Helvetica,sans-serif!important;font-size:17px!important;font-weight:700!important;line-height:21px!important;height:auto;padding:10px!important;width:100%!important;box-sizing:border-box!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button.loading{display:none}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button:hover{background-color:#317af0!important}.ml-subscribe-close{width:30px;height:30px;background:url(https://cdn.mailerlite.com/images/default/modal_close.png) no-repeat;background-size:30px;cursor:pointer;margin-top:-10px;margin-right:-10px;position:absolute;top:0;right:0}.ml-error input,.ml-error select,.ml-error textarea{border-color:red!important}.ml-error .custom-checkbox-radio-list{border:1px solid red!important;border-radius:5px;padding:10px}.ml-error .label-description,.ml-error .label-description p,.ml-error .label-description p a,.ml-error label:first-child{color:red!important}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow.ml-error .label-description p,#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow.ml-error .label-description p:first-letter{color:red!important}@media only screen and (max-width:400px){.ml-form-embedWrapper.embedDefault,.ml-form-embedWrapper.embedPopup{width:100%!important}.ml-form-formContent.horozintalForm{float:left!important}.ml-form-formContent.horozintalForm .ml-form-horizontalRow{height:auto!important;width:100%!important;float:left!important}.ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-input-horizontal{width:100%!important}.ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-input-horizontal>div{padding-right:0!important;padding-bottom:10px}.ml-form-formContent.horozintalForm .ml-button-horizontal{width:100%!important}.ml-form-formContent.horozintalForm .ml-button-horizontal.labelsOn{padding-top:0!important}}
+</style>
+<style type="text/css">
+  #mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow{margin-bottom:20px;text-align:left;float:left;width:100%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox{margin:0 0 10px 0;width:100%}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox.last-group{margin:0}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow h4{font-size:px;line-height:px;margin:0 0 10px 0;text-align:left;word-break:break-word}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox label{font-weight:400;margin:0;padding:0;position:relative;display:block;min-height:24px;padding-left:24px}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description{color:#000;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:23px;text-align:left;margin-bottom:0;position:relative;vertical-align:top;font-style:normal;font-weight:700}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .description{color:#000;font-family:'Open Sans',Arial,Helvetica,sans-serif;font-size:12px;font-style:italic;font-weight:400;line-height:18px;margin:5px 0 0 0;text-align:left}#mlb2-5694616.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]{box-sizing:border-box;padding:0;position:absolute;z-index:-1;opacity:0;margin-top:5px;margin-left:-1.5rem;overflow:visible}
+</style>
+<div id="mlb2-5694616" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5694616">
+  <div class="ml-form-align-center">
+    <div class="ml-form-embedWrapper embedForm">
+      <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+        <div class="ml-form-embedContent" style="margin-bottom:0"></div>
+        <form class="ml-block-form" action="https://static.mailerlite.com/webforms/submit/c9r1o6" data-code="c9r1o6" method="post" target="_blank">
+          <div class="ml-form-formContent">
+            <div class="ml-form-fieldRow ml-last-item">
+              <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                <input aria-label="email" aria-required="true" type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Email address" autocomplete="email">
+              </div>
+            </div>
+          </div>
+          <div class="ml-form-interestGroupsRow ml-block-groups ml-validate-required">
+            <div class="ml-form-interestGroupsRowCheckbox group" style="">
+              <label> <input type="checkbox" name="groups[]" value="111283128"> <div class="label-description">Lilim (weekly)</div> </label>
+            </div>
+            <div class="ml-form-interestGroupsRowCheckbox last-group" style="">
+              <label> <input type="checkbox" name="groups[]" value="111283132"> <div class="label-description">Uman (monthly)</div> </label>
+            </div>
+          </div>
+          <input type="hidden" name="ml-submit" value="1">
+          <div class="ml-form-embedSubmit">
+            <button type="submit" class="primary">Subscribe</button>
+            <button disabled="disabled" style="display:none" type="button" class="loading"> <div class="ml-form-embedSubmitLoad"></div> <span class="sr-only">Loading...</span> </button>
+          </div>
+          <input type="hidden" name="anticsrf" value="true">
+        </form>
+      </div>
+      <div class="ml-form-successBody row-success" style="display:none">
+        <div class="ml-form-successContent">
+          <h4>Thank you!</h4>
+          <p>You have successfully joined our subscriber list.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  function ml_webform_success_5694616(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-5694616 .row-success").show(),r(".ml-subscribe-form-5694616 .row-form").hide()}
+</script>
+<img src="https://track.mailerlite.com/webforms/o/5694616/c9r1o6?v1654243132" width="1" height="1" style="max-width:1px;max-height:1px;visibility:hidden;padding:0;margin:0;display:block" alt="." border="0">
+<script src="https://static.mailerlite.com/js/w/webforms.min.js?vceebe4d8b44e711ff4407ca1e8f63561" type="text/javascript"></script>
 
 [Click here to learn more about me and my work](/about).
-
-The best way to follow my work is by signing up to _[Uman](/newsletter)_ — my monthly newsletter.
-
-<style>
-    @import url('https://fonts.mailerlite.com/css?family=Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin-ext');
-    #mlb2-8723416,
-    #mlb2-8723416 *,
-    #mlb2-8723416 a:hover,
-    #mlb2-8723416 a:visited,
-    #mlb2-8723416 a:focus,
-    #mlb2-8723416 a:active {
-        overflow: visible;
-        position: static;
-        background: none;
-        border: none;
-        bottom: auto;
-        clear: none;
-        cursor: default;
-        float: none;
-        letter-spacing: normal;
-        line-height: normal;
-        text-align: left;
-        text-indent: 0;
-        text-transform: none;
-        visibility: visible;
-        white-space: normal;
-        max-height: none;
-        max-width: none;
-        left: auto;
-        min-height: 0;
-        min-width: 0;
-        right: auto;
-        top: auto;
-        width: auto;
-        z-index: auto;
-        text-shadow: none;
-        box-shadow: none;
-        outline: medium none;
-    }
-
-    #mlb2-8723416 a:hover {
-        cursor: pointer !important;
-    }
-
-    #mlb2-8723416 h4 {
-        font-weight: normal;
-    }
-
-    #mlb2-8723416 .subscribe-form {
-        padding: 20px;
-        width: 400px !important;
-        border: 0px solid transparent !important;
-        background: transparent none !important;
-        border-radius: 0px !important;
-        box-sizing: border-box !important;
-    }
-
-    #mlb2-8723416 .ml-block-form {
-        margin-bottom: 0px;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section {
-        margin-bottom: 20px;
-        width: 100%;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section.mb10 {
-        margin-bottom: 10px;
-        float: left;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section.mb0 {
-        margin-bottom: 0px;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section h4 {
-        margin: 0px 0px 10px 0px !important;
-        padding: 0px !important;
-        color: #000000 !important;
-        font-family: 'Open Sans', sans-serif !important;
-        font-size: 28px !important;
-        line-height: 100%;
-        text-align: left !important;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section p,
-    #mlb2-8723416 .subscribe-form .form-section li {
-        line-height: 150%;
-        padding: 0px !important;
-        margin: 0px 0px 10px 0px;
-        color: #000000 !important;
-        font-family: 'Open Sans', sans-serif !important;
-        font-size: 14px !important;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section a {
-        font-size: 14px;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .confirmation_checkbox {
-        line-height: 150%;
-        padding: 0px !important;
-        margin: 0px 0px 15px 0px !important;
-        color: #000000 !important;
-        font-family: 'Arial', sans-serif !important;
-        font-size: 17px !important;
-        font-weight: normal !important;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .confirmation_checkbox input[type="checkbox"] {
-        display: inline-block;
-        margin-right: 5px !important;
-        opacity: 1;
-        -webkit-appearance: checkbox;
-        -moz-appearance: checkbox;
-        appearance: checkbox;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .form-group {
-        margin-bottom: 15px;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .form-group label {
-        float: left;
-        margin-bottom: 10px;
-        width: 100%;
-        line-height: 100%;
-        color: #000000 !important;
-        font-family: 'Open Sans', sans-serif !important;
-        font-size: 14px !important;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .checkbox {
-        width: 100%;
-        margin: 0px 0px 10px 0px;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .checkbox label {
-        color: #000000 !important;
-        font-family: 'Open Sans', sans-serif !important;
-        font-size: 14px !important;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .checkbox input {
-        margin: 0px 5px 0px 0px;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section .checkbox input[type="checkbox"] {
-        display: inline-block;
-        opacity: 1;
-        -webkit-appearance: checkbox;
-        -moz-appearance: checkbox;
-        appearance: checkbox;
-    }
-
-    #mlb2-8723416.ml-subscribe-form .form-group .form-control {
-        width: 100%;
-        font-size: 13px;
-        padding: 10px 10px;
-        height: auto;
-        font-family: Arial;
-        border-radius: 0px;
-        border: 1px solid #cccccc !important;
-        color: #000000 !important;
-        background-color: #FFFFFF !important;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        clear: left;
-    }
-
-    #mlb2-8723416.ml-subscribe-form button {
-        border: none !important;
-        cursor: pointer !important;
-        width: 100% !important;
-        border-radius: 5px !important;
-        height: 42.5px !important;
-        background-color: #317af0 !important;
-        color: #FFFFFF !important;
-        font-family: 'Arial', sans-serif !important;
-        font-size: 17px !important;
-        text-align: center !important;
-        padding: 0 !important;
-        margin: 0 !important;
-        position: relative!important;
-    }
-
-    #mlb2-8723416.ml-subscribe-form button.gradient-on {
-        background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
-        background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
-        background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
-        background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
-    }
-
-    #mlb2-8723416.ml-subscribe-form button.gradient-on:hover {
-        background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
-        background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
-        background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
-        background: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
-    }
-
-    #mlb2-8723416.ml-subscribe-form button[disabled] {
-        cursor: not-allowed!important;
-    }
-
-    #mlb2-8723416.ml-subscribe-form .form-section.ml-error label {
-        color: red!important;
-    }
-
-    #mlb2-8723416.ml-subscribe-form .form-group.ml-error label {
-        color: red!important;
-    }
-
-    #mlb2-8723416.ml-subscribe-form .form-group.ml-error .form-control {
-        border-color: red!important;
-    }
-
-    #mlb2-8723416 .ml-vertical-align-center {
-        text-align: left;
-        display: block;
-    }
-
-    #mlb2-8723416 .ml-block-success,
-    #mlb2-8723416 form.ml-block-form {
-        display: inline-block;
-        width: 400px;
-    }
-
-    @media (max-width: 768px) {
-        #mlb2-8723416 {
-            width: 100% !important;
-        }
-        #mlb2-8723416 form.ml-block-form,
-        #mlb2-8723416.ml-subscribe-form .subscribe-form {
-            width: 100% !important;
-        }
-    }
-
-    #mlb2-8723416 .subscribe-form.horizontal {
-        padding-bottom: 0px;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section.horizontal {
-        float: left;
-        margin-bottom: 5px;
-        width: 70%;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section.horizontal .form-group {
-        float: left;
-        width: 100%;
-        padding-right: 10px;
-        box-sizing: border-box;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section.horizontal .form-group .form-control {
-        height: 42.5px;
-    }
-
-    #mlb2-8723416 .subscribe-form .ml-form-visible-xs {
-        display: none;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section.horizontal.ml-button-position {
-        width: 30%;
-        padding: 0;
-    }
-
-    #mlb2-8723416 .subscribe-form .form-section.horizontal.ml-button-position.top-padding {
-        padding-top: 24px;
-    }
-
-    @media (max-width: 768px) {
-        #mlb2-8723416.ml-subscribe-form .subscribe-form .form-section.horizontal {
-            float: none;
-        }
-        #mlb2-8723416.ml-subscribe-form .subscribe-form .form-section.horizontal,
-        #mlb2-8723416.ml-subscribe-form .subscribe-form .form-section.horizontal.ml-button-position,
-        #mlb2-8723416.ml-subscribe-form .subscribe-form .form-section.horizontal .form-group {
-            width: 100%;
-            padding: 0;
-        }
-        #mlb2-8723416 .subscribe-form .form-section.horizontal.ml-button-position {
-            margin-bottom: 20px;
-        }
-        #mlb2-8723416 .subscribe-form .ml-form-visible-xs {
-            display: block;
-        }
-        #mlb2-8723416 .subscribe-form .ml-form-hidden-xs {
-            display: none;
-        }
-    }
-</style>
-<div id="mlb2-8723416" class="ml-subscribe-form ml-subscribe-form-8723416">
-    <div class="ml-vertical-align-center">
-        <div class="subscribe-form ml-block-success" style="display:none">
-            <div class="form-section">
-                <p>Thank you! You have successfully subscribed to Uman.</p>
-            </div>
-        </div>
-        <form class="ml-block-form" action="https://static.mailerlite.com/webforms/submit/c4c6v1" data-id="873582" data-code="c4c6v1" method="POST" target="_blank">
-            <div class="subscribe-form horizontal">
-                <div class="form-section horizontal">
-                    <div class="form-group ml-field-email ml-validate-required ml-validate-email">
-                        <input type="email" name="fields[email]" class="form-control" placeholder="Your email address...*" value="" autocomplete="email" x-autocompletetype="email" spellcheck="false" autocapitalize="off" autocorrect="off">
-                    </div>
-                </div>
-                <div class="form-section horizontal ml-button-position">
-                    <button type="submit" class="primary gradient-on">
-                        Subscribe
-                    </button>
-                    <button disabled="disabled" style="display: none;" type="button" class="loading gradient-on">
-                        <img src="https://static.mailerlite.com/images/rolling@2x.gif" width="20" height="20" style="width: 20px; height: 20px;">
-                    </button>
-                </div>
-                <div class="clearfix" style="clear: both;"></div>
-                <input type="hidden" name="ml-submit" value="1" />
-            </div>
-        </form>
-        <script>
-            function ml_webform_success_8723416() {
-                var $ = ml_jQuery || jQuery;
-
-                $('.ml-subscribe-form-8723416 .ml-block-success').show();
-                $('.ml-subscribe-form-8723416 .ml-block-form').hide();
-            };
-        </script>
-    </div>
-</div>
-<script type="text/javascript" src="https://static.mailerlite.com/js/w/webforms.min.js?v0c75f831c56857441820dcec3163967c"></script>
