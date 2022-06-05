@@ -6,6 +6,7 @@ categories:
   - "newsletters"
 tags:
   - "lilim"
+  - "walk-narratives"
 ---
 ![The dirt road in Botao](images/dirt-road-botao.jpg)
 

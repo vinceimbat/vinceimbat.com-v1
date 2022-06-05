@@ -6,6 +6,7 @@ categories:
   - "newsletters"
 tags:
   - "lilim"
+  - "walk-narratives"
 ---
 
 ![Abandoned van](images/abandoned-van.jpeg)
