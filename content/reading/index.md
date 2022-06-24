@@ -15,6 +15,13 @@ Numbers in parentheses represent the month I finished reading the book.
 
 I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/reading/), which I learned through [Austin Kleon](https://austinkleon.com/tag/my-reading-year/) ([who also keeps his own list](https://austinkleon.com/tag/my-reading-year/)).
 
+## 2022
+
+- **Kissa by Kissa** by Craig Mod (6) ★★
+- **DIY MFA** by Gabriela Pereira (5)
+- **Transcend** by Scott Barry Kaufmann (3) ★
+- **A Philosophy of Walking** by Frédéric Gros (1) ★
+
 ## 2021
 
 - **Be the Gateway** by Dan Blank (4) ★
