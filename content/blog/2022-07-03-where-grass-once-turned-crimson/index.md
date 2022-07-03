@@ -19,7 +19,7 @@ After seeing Lea ride the jeep home, I walk towards the campus. At the bridge on
 
 ![Two baggers walking](images/Baguio-bromance.jpg)
 
-At Freedom Park, I see the lone 7-eleven that closed in 2020. “Temporary closed,” the sign on its door says. But it hasn’t opened even after stores inside and outside the campus have. It is a reminder of what the pandemic has done. Meanwhile, around the park, a crowd of unmasked joggers, walkers, and picnickers remind me of what life was before the pandemic and what it could be in the months ahead.
+At Freedom Park, I see the lone 7-eleven that closed in 2020. “Temporary store closure,” the sign on its door says. But it hasn’t opened even after stores inside and outside the campus have. It is a reminder of what the pandemic has done. Meanwhile, around the park, a crowd of unmasked joggers, walkers, and picnickers remind me of what life was before the pandemic and what it could be in the months ahead.
 
 ![Abandoned 7-eleven](images/711-freedom-park.jpeg)
 
